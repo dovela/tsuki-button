@@ -2,7 +2,7 @@
 
 ### 梦魇月……梦魇月……还有稿子要画
 
- - http://button.akumo.tk/
+ - http://button.mytsuki.cn
 
 ### 相关链接：
 
