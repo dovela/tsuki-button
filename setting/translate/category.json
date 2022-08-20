@@ -1,108 +1,23 @@
 [
   {
-    "name": "名言",
-    "translate": {
-      "zh-CN": "猫猫名言~",
-      "en-US": "Witticisms~"
-    }
-  },
-  {
     "name": "日常",
     "translate": {
-      "zh-CN": "猫猫日常~",
-      "en-US": "Hiiro's daily~"
+      "zh-CN": "是梦魇Tsuki~",
+      "en-US": "Akumo Tsuki~"
     }
   },
   {
-    "name": "可爱",
+    "name": "歌",
     "translate": {
-      "zh-CN": "可爱猫猫~",
-      "en-US": "The lovely cat~ "
+      "zh-CN": "听听梦境中的歌~",
+      "en-US": "Tsuki Song~"
     }
   },
   {
-    "name": "说教",
+    "name": "梗",
     "translate": {
-      "zh-CN": "说教猫猫~",
-      "en-US": "Hiiro's preaching DDs~"
-    }
-  },
-  {
-    "name": "清楚",
-    "translate": {
-      "zh-CN": "清楚猫猫~",
-      "en-US": "pure~ "
-    }
-  },
-  {
-    "name": "唱歌",
-    "translate": {
-      "zh-CN": "唱歌猫猫~",
-      "en-US": "Singing songs~ "
-    }
-  },
-  {
-    "name": "软猫",
-    "translate": {
-      "zh-CN": "软软猫猫~",
-      "en-US": "Soft nya nya~ "
-    }
-  },
-  {
-    "name": "幼猫",
-    "translate": {
-      "zh-CN": "幼年猫猫~",
-      "en-US": "Early age cat nya~"
-    }
-  },
-  {
-    "name": "醉猫",
-    "translate": {
-      "zh-CN": "喝醉猫猫~",
-      "en-US": "Drunk cat nya~"
-    }
-  },
-  {
-    "name": "糟糕",
-    "translate": {
-      "zh-CN": "糟糕猫猫~",
-      "en-US": "Sexy(?) voice~"
-    }
-  },
-  {
-    "name": "烧开水",
-    "translate": {
-      "zh-CN": "猫猫开水~",
-      "en-US": "Boiling water~"
-    }
-  },
-  {
-    "name": "混沌",
-    "translate": {
-      "zh-CN": "混沌猫猫~",
-      "en-US": "Nya nya chaos~ "
-    }
-  },
-  {
-    "name": "mua",
-    "translate": {
-      "zh-CN": "MuaMua猫猫~",
-      "en-US": "Mua Mua nya~ "
-    }
-  },
-  {
-    "name": "被窝",
-    "translate": {
-      "zh-CN": "被窝猫猫~",
-      "en-US": "Hiiro in bed~ "
-    }
-  },
-  {
-    "name": "希语言",
-    "hide": true,
-    "translate": {
-      "zh-CN": "希语言~",
-      "en-US": "Hiilang~ "
+      "zh-CN": "851181烂梗不得不品鉴~",
+      "en-US": "Tsuki meme~"
     }
   }
 ]

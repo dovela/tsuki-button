@@ -1,78 +1,38 @@
 {
-  "i18n": true,
+  "i18n": false,
   "neko_mimi": true,
   "name": {
     "CN": {
-      "title": "猫猫按钮",
+      "title": "梦魇月按钮",
       "fullName": "Hiiro"
     },
     "EN": {
-      "title": "Hiiro Button",
+      "title": "Tsuki Button",
       "fullName": "Hiiro"
     }
   },
-  "readme": "<div style=\"text-align: center;font-size: 20px;\">Hiiro...Hiiro...寂しい</div>",
+  "readme": "<div style=\"text-align: center;font-size: 20px;\">梦魇月……梦魇月……还有稿子要画</div>",
   "header": {
     "icon": "img/logo.svg",
     "youtube": "",
     "twitter": "",
-    "bilibili": "https://live.bilibili.com/21919321"
+    "bilibili": "https://live.bilibili.com/851181"
   },
   "related": [
     {
-      "name": "猫猫Hii图",
-      "url": "https://hii.hiiro.club/"
+      "name": "月月子部分录播，提取码：9hgm",
+      "url": "https://www.aliyundrive.com/s/nxH15VCHiyj"
     },
     {
-      "name": "HiiroNya",
-      "url": "https://nya.hiiro.club/"
-    },
-    {
-      "name": "Hiiropara",
-      "url": "https://hiiropara.hiiro.club/"
-    },
-    {
-      "name": "二创游戏",
-      "url": "https://store.steampowered.com/app/1907180"
-    },
-    {
-      "name": "录播文件分享站",
-      "url": "https://record.hiiro.fans"
+      "name": "其实有在线录播站，但是因为拉扯不能放",
+      "url": ""
     }
   ],
   "link": [
     {
-      "name": "七奈按钮(神楽七奈)",
-      "url": "https://kaguranana.moe/",
-      "background": "#c4afd0"
-    },
-    {
-      "name": "梦魇按钮(希亚娜Ciyana)",
-      "url": "https://ciyana.moe/",
-      "background": "#19368f",
-      "color": "#eee"
-    },
-    {
-      "name": "鹿乃按钮",
-      "url": "https://kano.zone/",
-      "background": "#bf9780",
-      "color": "#000"
-    },
-    {
-      "name": "虚研社按钮",
-      "url": "https://xysbtn.xiaoblogs.cn/",
-      "background": "#cd3951",
-      "color": "#eee"
-    },
-    {
-      "name": "Eliro按钮(彼岸霜滢)",
-      "url": "https://eliro.top/",
-      "background": "#BFB8FF"
-    },
-    {
-      "name": "希侑按钮",
-      "url": "https://kiyuu.club/",
-      "background": "#FF91AE"
+      "name": "鲨鱼按钮(七海Nana7mi)",
+      "url": "https://button.nana7mi.com/",
+      "background": "#9c6455"
     }
   ],
   "footer": {
@@ -83,10 +43,10 @@
       }
     ],
     "info": [
-      "<div>偶尔可能会发点更新信息的B站→<a href=\"https://space.bilibili.com/1384118\" target=\"_blank\">我想改个带咸鱼的名字</a></div>",
+      "<div>网站由blacktunes开发，本站修改自<a href=\"https://github.com/blacktunes/hiiro-button\" target=\"_blank\">hiiro-button</a>。维护站长<a href=\"https://github.com/dovela\" target=\"_blank\">dovela</a></div>",
       "<img style=\"margin: 5px 5px 0px -2px\" alt=\"GitHub Repo stars\" src=\"https://img.shields.io/github/stars/blacktunes/hiiro-button?style=social\"><img style=\"margin-top: 5px\" alt=\"GitHub Repo license\" src=\"https://img.shields.io/github/license/blacktunes/hiiro-button?style=social\">"
     ],
-    "githubUrl": "https://github.com/blacktunes/hiiro-button"
+    "githubUrl": "https://github.com/dovela/tsuki-button"
   },
   "console": {
     "text": "HIIRO",
@@ -95,9 +55,5 @@
     "img": "hiiro.png",
     "imgWidth": "100%",
     "imgHeight": "56%"
-  },
-  "mediaSession": "albums.jpg",
-  "GA_ID_comment": "GA_ID用于统计访问，请使用模板开发务必修改或删除",
-  "GA_ID": "UA-176441751-2",
-  "CDN": "https://fastly.jsdelivr.net/gh/blacktunes/hiiro-button@master/public/voices"
+  }
 }
