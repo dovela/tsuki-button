@@ -28,14 +28,10 @@
       "loop_0": "这个按钮可以切换连续播放模式",
       "loop_1": "现在是单曲循环模式",
       "loop_2": "现在是分类循环模式",
-      "loop_3": "现在是全部循环模式",
-      "showInfoOn": "这个按钮可以切换成分类排序",
-      "showInfoOff": "这个按钮可以查看按钮的出处"
+      "loop_3": "现在是全部循环模式"
     },
-    "vtbbtn": "VTuber按钮集合",
     "voiceTotalTip": "当前语音数",
     "playTimes": "累计播放次数",
-    "lang": "Change to English",
     "unknown": "不太清楚出自哪"
   },
   "en-US": {
@@ -68,9 +64,7 @@
       "loop_0": "This button can enabled loop",
       "loop_1": "Now is Single Loop mode",
       "loop_2": "Now is Category Loop mode",
-      "loop_3": "Now is All Loop mode",
-      "showInfoOn": "This button can be switched to sort by category",
-      "showInfoOff": "This button allows you to see where the button came from"
+      "loop_3": "Now is All Loop mode"
     },
     "vtbbtn": "VTuber Button Collection",
     "voiceTotalTip": "Current voice quantity",

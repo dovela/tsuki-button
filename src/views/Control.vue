@@ -53,7 +53,7 @@
         <ControlIcon type="overlapChange" />
         <ControlIcon type="autoRandomChange" />
         <ControlIcon type="loopChange" />
-        <ControlIcon type="changeShowInfo" />
+<!--        <ControlIcon type="changeShowInfo" />-->
       </div>
     </div>
   </transition>

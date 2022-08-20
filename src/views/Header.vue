@@ -48,6 +48,7 @@ import Setting from '@/../setting/setting.json'
 import bilibiliPng from '@/assets/image/bilibili-fill.png'
 import twitterPng from '@/assets/image/twitter-fill.png'
 import youtubePng from '@/assets/image/youtube-fill.png'
+import s1Png from '@/assets/image/s1-fill.png'
 import { INFO_I18N } from '@/assets/script/type'
 import { I18NIocn, SearchIcon } from '@/components/common/Icon'
 import IBtn from '@/components/common/IconBtn.vue'
@@ -91,6 +92,10 @@ const btnList = [
   {
     url: HEADER.bilibili,
     img: bilibiliPng
+  },
+  {
+    url: HEADER.s1stage,
+    img: s1Png
   }
 ]
 

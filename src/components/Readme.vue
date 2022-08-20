@@ -22,10 +22,6 @@
         <ControlIcon type="loopChange" />
         <div class="tip">{{ loop }}</div>
       </div>
-      <div class="line">
-        <ControlIcon type="changeShowInfo" />
-        <div class="tip">{{ showInfo }}</div>
-      </div>
     </div>
   </Collapse>
 </template>
@@ -63,9 +59,6 @@ const loop = computed(() => {
   }
 })
 
-const showInfo = computed(() => {
-  return playSetting.showInfo ? t(README_I18N.showInfoOn) : t(README_I18N.showInfoOff)
-})
 </script>
 
 <style lang="stylus" scoped>

@@ -27,12 +27,6 @@
       </Card>
       <Card v-if="LINK.length > 0">
         <div class="content">
-          <Btn
-            class="btn"
-            :name="t(INFO_I18N.vtbbtn)"
-            url="https://vbup-osc.github.io/vtuber-voice-button-collection/"
-            background="rgb(100, 181, 246)"
-          />
           <template v-for="item in LINK" :key="item.name">
             <Btn
               class="btn"
