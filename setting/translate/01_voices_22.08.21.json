@@ -10,6 +10,16 @@
     "category": "日常"
   },
   {
+    "name": "一分钟鹅鹅鹅",
+    "path": "一分钟鹅鹅鹅.mp3",
+    "date": "2022-8-20",
+    "translate": {
+      "zh-CN": "一分钟鹅鹅鹅",
+      "en-US": "nya nya nya"
+    },
+    "category": "日常"
+  },
+  {
     "name": "我梦魇Tsuki求求你不要切",
     "path": "我梦魇Tsuki求求你不要切.mp3",
     "date": "2022-8-20",
@@ -105,16 +115,6 @@
     "date": "2022-8-20",
     "translate": {
       "zh-CN": "怎么会喜欢听管人倒数",
-      "en-US": "nya nya nya"
-    },
-    "category": "日常"
-  },
-  {
-    "name": "一分钟鹅鹅鹅",
-    "path": "一分钟鹅鹅鹅.mp3",
-    "date": "2022-8-20",
-    "translate": {
-      "zh-CN": "一分钟鹅鹅鹅",
       "en-US": "nya nya nya"
     },
     "category": "日常"
@@ -258,5 +258,225 @@
       "en-US": "nya nya nya"
     },
     "category": "日常"
+  },
+  {
+    "name": "让你舍友去死",
+    "path": "让你舍友去死.mp3",
+    "date": "2022-8-21",
+    "translate": {
+      "zh-CN": "让你舍友去死",
+      "en-US": "nya nya nya"
+    },
+    "category": "日常"
+  },
+  {
+    "name": "《動く、動く》",
+    "path": "《動く、動く》.mp3",
+    "date": "2022-8-21",
+    "translate": {
+      "zh-CN": "《動く、動く》",
+      "en-US": "nya nya nya"
+    },
+    "category": "歌"
+  },
+  {
+    "name": "《ようこそジャパリパークへ》",
+    "path": "《ようこそジャパリパークへ》.mp3",
+    "date": "2022-8-21",
+    "translate": {
+      "zh-CN": "《ようこそジャパリパークへ》",
+      "en-US": "nya nya nya"
+    },
+    "category": "歌"
+  },
+  {
+    "name": "《ぼくのフレンド》",
+    "path": "《ぼくのフレンド》.mp3",
+    "date": "2022-8-21",
+    "translate": {
+      "zh-CN": "《ぼくのフレンド》",
+      "en-US": "nya nya nya"
+    },
+    "category": "歌"
+  },
+  {
+    "name": "《翼をください》",
+    "path": "《翼をください》.mp3",
+    "date": "2022-8-21",
+    "translate": {
+      "zh-CN": "《翼をください》",
+      "en-US": "nya nya nya"
+    },
+    "category": "歌"
+  },
+  {
+    "name": "《打上花火》",
+    "path": "《打上花火》.mp3",
+    "date": "2022-8-21",
+    "translate": {
+      "zh-CN": "《打上花火》",
+      "en-US": "nya nya nya"
+    },
+    "category": "歌"
+  },
+  {
+    "name": "《One more time One more chance》",
+    "path": "《One more time One more chance》.mp3",
+    "date": "2022-8-21",
+    "translate": {
+      "zh-CN": "《One more time One more chance》",
+      "en-US": "nya nya nya"
+    },
+    "category": "歌"
+  },
+  {
+    "name": "yyy都是很好很好的人",
+    "path": "yyy都是很好很好的人.mp3",
+    "date": "2022-8-21",
+    "translate": {
+      "zh-CN": "yyy都是很好很好的人",
+      "en-US": "nya nya nya"
+    },
+    "category": "日常"
+  },
+  {
+    "name": "认知厨似了算了",
+    "path": "认知厨似了算了.mp3",
+    "date": "2022-8-21",
+    "translate": {
+      "zh-CN": "认知厨似了算了",
+      "en-US": "nya nya nya"
+    },
+    "category": "日常"
+  },
+  {
+    "name": "早点BE吧",
+    "path": "早点BE吧.mp3",
+    "date": "2022-8-21",
+    "translate": {
+      "zh-CN": "早点BE吧",
+      "en-US": "nya nya nya"
+    },
+    "category": "日常"
+  },
+  {
+    "name": "早点似",
+    "path": "早点似.mp3",
+    "date": "2022-8-21",
+    "translate": {
+      "zh-CN": "早点似",
+      "en-US": "nya nya nya"
+    },
+    "category": "日常"
+  },
+  {
+    "name": "滑了",
+    "path": "滑了.mp3",
+    "date": "2022-8-21",
+    "translate": {
+      "zh-CN": "滑了",
+      "en-US": "nya nya nya"
+    },
+    "category": "日常"
+  },
+  {
+    "name": "锐评VRstf",
+    "path": "锐评VRstf.mp3",
+    "date": "2022-8-21",
+    "translate": {
+      "zh-CN": "锐评VRstf",
+      "en-US": "nya nya nya"
+    },
+    "category": "日常"
+  },
+  {
+    "name": "有信誉了",
+    "path": "有信誉了.mp3",
+    "date": "2022-8-21",
+    "translate": {
+      "zh-CN": "有信誉了",
+      "en-US": "nya nya nya"
+    },
+    "category": "日常"
+  },
+  {
+    "name": "我们换一首吧",
+    "path": "我们换一首吧.mp3",
+    "date": "2022-8-21",
+    "translate": {
+      "zh-CN": "我们换一首吧",
+      "en-US": "nya nya nya"
+    },
+    "category": "日常"
+  },
+  {
+    "name": "我们换一首吧②",
+    "path": "我们换一首吧②.mp3",
+    "date": "2022-8-21",
+    "translate": {
+      "zh-CN": "我们换一首吧②",
+      "en-US": "nya nya nya"
+    },
+    "category": "日常"
+  },
+  {
+    "name": "我们换一首吧③",
+    "path": "我们换一首吧③.mp3",
+    "date": "2022-8-21",
+    "translate": {
+      "zh-CN": "我们换一首吧③",
+      "en-US": "nya nya nya"
+    },
+    "category": "日常"
+  },
+  {
+    "name": "嗷呜 饮料掉了",
+    "path": "嗷呜 饮料掉了.mp3",
+    "date": "2022-8-21",
+    "translate": {
+      "zh-CN": "嗷呜 饮料掉了",
+      "en-US": "nya nya nya"
+    },
+    "category": "日常"
+  },
+  {
+    "name": "伸个懒腰",
+    "path": "伸个懒腰.mp3",
+    "date": "2022-8-21",
+    "translate": {
+      "zh-CN": "伸个懒腰",
+      "en-US": "nya nya nya"
+    },
+    "category": "日常"
+  },
+  {
+    "name": "半分钟鹅鹅鹅",
+    "path": "半分钟鹅鹅鹅.mp3",
+    "date": "2022-8-21",
+    "translate": {
+      "zh-CN": "半分钟鹅鹅鹅",
+      "en-US": "nya nya nya"
+    },
+    "category": "日常"
+  },
+  {
+    "name": "好大的乃",
+    "path": "好大的乃.mp3",
+    "date": "2022-8-21",
+    "translate": {
+      "zh-CN": "好大的乃",
+      "en-US": "nya nya nya"
+    },
+    "category": "日常"
+  },
+  {
+    "name": "《yona yona dance》",
+    "path": "《yona yona dance》.mp3",
+    "date": "2022-8-21",
+    "translate": {
+      "zh-CN": "《yona yona dance》",
+      "en-US": "nya nya nya"
+    },
+    "category": "歌"
   }
 ]

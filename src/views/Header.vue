@@ -49,6 +49,7 @@ import bilibiliPng from '@/assets/image/bilibili-fill.png'
 import twitterPng from '@/assets/image/twitter-fill.png'
 import youtubePng from '@/assets/image/youtube-fill.png'
 import s1Png from '@/assets/image/s1-fill.png'
+import tapePng from '@/assets/image/tape-fill.png'
 import { INFO_I18N } from '@/assets/script/type'
 import { I18NIocn, SearchIcon } from '@/components/common/Icon'
 import IBtn from '@/components/common/IconBtn.vue'
@@ -63,6 +64,8 @@ const HEADER: {
   youtube?: string;
   twitter?: string;
   bilibili?: string;
+  s1stage?: string;
+  tape?: string;
 } = Setting['header'] || {}
 
 const onLogoClick = (logo: Ref<HTMLElement>) => {
@@ -93,9 +96,13 @@ const btnList = [
     url: HEADER.bilibili,
     img: bilibiliPng
   },
+  // {
+  //   url: HEADER.s1stage,
+  //   img: s1Png
+  // },
   {
-    url: HEADER.s1stage,
-    img: s1Png
+    url: HEADER.tape,
+    img: tapePng
   }
 ]
 
