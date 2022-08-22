@@ -24,28 +24,9 @@
 
 所有的分类和音频信息都存储在`setting/translate`目录的`json`文件中，**添加或修改音频信息**、**完善翻译**，你需要修改对应文件中的内容
 
-`locales.json`和`category.json`分别为 UI 界面翻译和分类信息，请不要修改文件名，语音信息可以使用除此外的任意名称，可使用多个`json`文件方便管理语音
+`locales.json`和`category.json`分别为 UI 界面翻译和分类信息，请**不要修改**
 
-可使用`schema`文件夹中的`json`文件增加`json schema`约束和代码提醒
-
-`category.json`结构示例如下：
-
-```jsonc
-[
-  {
-    // 分类命名
-    "name": "名言",
-    // 是否隐藏
-    "hide": true,
-    "translate": {
-      // 分类中文翻译
-      "zh-CN": "猫猫名言~",
-      // 分类英文翻译
-      "en-US": "witticism~"
-    }
-  }
-]
-```
+请新建`json`文件，注意文件名一致，例：`02_voices_22.08.22.json`
 
 语音文件结构示例如下：
 
@@ -53,34 +34,23 @@
 [
   {
     // 语音命名
-    "name": "baba",
+    "name": "我梦魇tsuki求求你不要切",
     // 语音文件名
-    "path": "baba.mp3",
-    // 是否隐藏
-    "hide": true,
+    "path": "我梦魇tsuki求求你不要切.mp3",
+    // 添加日期
+    "date": "2022-8-22",
     "translate": {
       // 语音中文翻译
-      "zh-CN": "米娜我是你爸爸",
-      // 语音英语翻译
-      "en-US": "I'm your Baba"
+      "zh-CN": "我梦魇tsuki求求你不要切",
+      // 语音英语翻译（本仓库已弃用，为避免bug勿删）
+      "en-US": "nya nya nya~"
     },
-    // 语音所属分类(对应category的name)
-    "category": "名言",
-    // 以下属性为可选
-    // hover时显示图片，请放到public/voices/img目录
-    "usePicture": {
-      "zh-CN": "",
-      "en-US": ""
-    },
-    // 添加时间
-    "date": "2020-11-11",
-    // 语音出处
-    "mark": {
-      "title": "【Hiiro】读评论 学中文 DD们的评论都是什么东西啊？",
-      "time": "0:01~0:03",
-      "url": "https://www.bilibili.com/video/BV1ET4y177A8"
-    }
-  }
+    // 语音所属分类(日常、歌、梗)
+    "category": "日常"
+  },  // 记得半角逗号
+  {
+  ……
+  }  // 结尾没有逗号
 ]
 ```
 

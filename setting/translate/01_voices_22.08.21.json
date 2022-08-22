@@ -90,6 +90,16 @@
     "category": "日常"
   },
   {
+    "name": "貘叫",
+    "path": "貘叫.mp3",
+    "date": "2022-8-20",
+    "translate": {
+      "zh-CN": "貘叫",
+      "en-US": "nya nya nya"
+    },
+    "category": "日常"
+  },
+  {
     "name": "你不要过来",
     "path": "你不要过来.mp3",
     "date": "2022-8-20",
@@ -205,6 +215,26 @@
     "date": "2022-8-20",
     "translate": {
       "zh-CN": "我是巨婴",
+      "en-US": "nya nya nya"
+    },
+    "category": "日常"
+  },
+  {
+    "name": "啊~念不出来",
+    "path": "啊~念不出来.mp3",
+    "date": "2022-8-20",
+    "translate": {
+      "zh-CN": "啊~念不出来",
+      "en-US": "nya nya nya"
+    },
+    "category": "日常"
+  },
+  {
+    "name": "已经是虚假的钓人主播了",
+    "path": "已经是虚假的钓人主播了.mp3",
+    "date": "2022-8-20",
+    "translate": {
+      "zh-CN": "已经是虚假的钓人主播了",
       "en-US": "nya nya nya"
     },
     "category": "日常"
