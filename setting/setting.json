@@ -45,13 +45,13 @@
       }
     ],
     "info": [
-      "<div>网站由blacktunes开发，本站修改自<a href=\"https://github.com/blacktunes/hiiro-button\" target=\"_blank\">hiiro-button</a>。维护站长<a href=\"https://github.com/dovela\" target=\"_blank\">dovela</a>，B站id：<a href=\"https://space.bilibili.com/2662353\", target=\"_blank\">回溯风</a>。全部音频来自<a href=\"https://space.bilibili.com/7929905\", target=\"_blank\">给我来打二向箔</a>的切片(2022/8/21)</div>",
+      "<div>网站由blacktunes开发，本站修改自<a href=\"https://github.com/blacktunes/hiiro-button\" target=\"_blank\">hiiro-button</a>。维护站长<a href=\"https://github.com/dovela\" target=\"_blank\">dovela</a>，B站id：<a href=\"https://space.bilibili.com/2662353\", target=\"_blank\">回溯风</a>。全部音频来自<a href=\"https://space.bilibili.com/7929905\", target=\"_blank\">给我来打二向箔</a>的切片(2022/8/30)</div>",
       "<img style=\"margin: 5px 5px 0px -2px\" alt=\"GitHub Repo stars\" src=\"https://img.shields.io/github/stars/dovela/tsuki-button?style=social\"><img style=\"margin-top: 5px\" alt=\"GitHub Repo license\" src=\"https://img.shields.io/github/license/blacktunes/hiiro-button?style=social\">"
     ],
     "githubUrl": "https://github.com/dovela/tsuki-button"
   },
   "console": {
-    "text": "TSUKI",
+    "text": "NIGHTMARE TSUKI",
     "size": "24px",
     "color": "purple",
     "img": "console.png",

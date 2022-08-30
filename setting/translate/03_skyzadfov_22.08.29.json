@@ -60,6 +60,16 @@
     "category": "日常"
   },
   {
+    "name": "它又叫了",
+    "path": "它又叫了.mp3",
+    "date": "2022-8-29",
+    "translate": {
+      "zh-CN": "它又叫了",
+      "en-US": "nya nya nya"
+    },
+    "category": "日常"
+  },
+  {
     "name": "阿梓谁呀",
     "path": "阿梓谁呀.mp3",
     "date": "2022-8-29",
@@ -70,11 +80,31 @@
     "category": "日常"
   },
   {
+    "name": "我是谁啊",
+    "path": "我是谁啊.mp3",
+    "date": "2022-8-29",
+    "translate": {
+      "zh-CN": "我是谁啊",
+      "en-US": "nya nya nya"
+    },
+    "category": "日常"
+  },
+  {
     "name": "嘴里含着点什么的声音",
     "path": "嘴里含着点什么的声音.mp3",
     "date": "2022-8-29",
     "translate": {
       "zh-CN": "嘴里含着点什么的声音",
+      "en-US": "nya nya nya"
+    },
+    "category": "日常"
+  },
+  {
+    "name": "海苹果小学校，我来辣",
+    "path": "海苹果小学校，我来辣.mp3",
+    "date": "2022-8-29",
+    "translate": {
+      "zh-CN": "海苹果小学校，我来辣",
       "en-US": "nya nya nya"
     },
     "category": "日常"
