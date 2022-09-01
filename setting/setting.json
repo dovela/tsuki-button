@@ -4,11 +4,11 @@
   "name": {
     "CN": {
       "title": "梦魇月按钮",
-      "fullName": "Hiiro"
+      "fullName": "梦魇月按钮"
     },
     "EN": {
       "title": "Tsuki Button",
-      "fullName": "Hiiro"
+      "fullName": "Tsuki Button"
     }
   },
   "readme": "<div style=\"text-align: center;font-size: 20px;\">梦魇月……梦魇月……还有稿子要画</div>",
@@ -35,6 +35,31 @@
       "name": "鲨鱼按钮(七海Nana7mi)",
       "url": "https://button.nana7mi.com/",
       "background": "#9c6455"
+    },
+    {
+      "name": "弥按钮(弥希Miki)",
+      "url": "https://www.supermikimiki.com/",
+      "background": "#ae8ad9"
+    },
+    {
+      "name": "孟按钮(真绯瑠Mahiru)",
+      "url": "https://voice.mahiru.live/",
+      "background": "#f76e60"
+    },
+    {
+      "name": "希侑按钮(希侑Kiyuu)",
+      "url": "https://kiyuu.club/",
+      "background": "#FF91AE"
+    },
+    {
+      "name": "梓毛按钮(阿梓从小就很可爱)",
+      "url": "https://vtbkeyboard.moe/7706705",
+      "background": "#b4b8fd"
+    },
+    {
+      "name": "待补充，欢迎友站",
+      "url": "",
+      "background": "#ebebeb"
     }
   ],
   "footer": {
