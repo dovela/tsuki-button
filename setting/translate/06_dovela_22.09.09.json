@@ -1,0 +1,382 @@
+[
+  {
+    "name": "《当你》",
+    "path": "《当你》.mp3",
+    "date": "2022-9.9",
+    "translate": {
+      "zh-CN": "《当你》",
+      "en-US": "nya nya nya"
+    },
+    "category": "歌"
+  },
+  {
+    "name": "《那年夏天宁静的海》",
+    "path": "《那年夏天宁静的海》.mp3",
+    "date": "2022-9.9",
+    "translate": {
+      "zh-CN": "《那年夏天宁静的海》",
+      "en-US": "nya nya nya"
+    },
+    "category": "歌"
+  },
+  {
+    "name": "《宁夏》",
+    "path": "《宁夏》.mp3",
+    "date": "2022-9.9",
+    "translate": {
+      "zh-CN": "《宁夏》",
+      "en-US": "nya nya nya"
+    },
+    "category": "歌"
+  },
+  {
+    "name": "《暖暖》",
+    "path": "《暖暖》.mp3",
+    "date": "2022-9.9",
+    "translate": {
+      "zh-CN": "《暖暖》",
+      "en-US": "nya nya nya"
+    },
+    "category": "歌"
+  },
+  {
+    "name": "《情歌》",
+    "path": "《情歌》.mp3",
+    "date": "2022-9.9",
+    "translate": {
+      "zh-CN": "《情歌》",
+      "en-US": "nya nya nya"
+    },
+    "category": "歌"
+  },
+  {
+    "name": "《勇气》",
+    "path": "《勇气》.mp3",
+    "date": "2022-9.9",
+    "translate": {
+      "zh-CN": "《勇气》",
+      "en-US": "nya nya nya"
+    },
+    "category": "歌"
+  },
+  {
+    "name": "《月光》2022.09.06",
+    "path": "《月光》2022.09.06.mp3",
+    "date": "2022-9.9",
+    "translate": {
+      "zh-CN": "《月光》2022.09.06",
+      "en-US": "nya nya nya"
+    },
+    "category": "歌"
+  },
+  {
+    "name": "《月亮代表我的心》",
+    "path": "《月亮代表我的心》.mp3",
+    "date": "2022-9.9",
+    "translate": {
+      "zh-CN": "《月亮代表我的心》",
+      "en-US": "nya nya nya"
+    },
+    "category": "歌"
+  },
+  {
+    "name": "嗅嗅",
+    "path": "嗅嗅.mp3",
+    "date": "2022-9.9",
+    "translate": {
+      "zh-CN": "嗅嗅",
+      "en-US": "nya nya nya"
+    },
+    "category": "日常"
+  },
+  {
+    "name": "好饿好饿",
+    "path": "好饿好饿.mp3",
+    "date": "2022-9.9",
+    "translate": {
+      "zh-CN": "好饿好饿",
+      "en-US": "nya nya nya"
+    },
+    "category": "日常"
+  },
+  {
+    "name": "嗷呜(开瓶版)",
+    "path": "嗷呜(开瓶版).mp3",
+    "date": "2022-9.9",
+    "translate": {
+      "zh-CN": "嗷呜(开瓶版)",
+      "en-US": "nya nya nya"
+    },
+    "category": "日常"
+  },
+  {
+    "name": "拜拜拜拜",
+    "path": "拜拜拜拜.mp3",
+    "date": "2022-9.9",
+    "translate": {
+      "zh-CN": "拜拜拜拜",
+      "en-US": "nya nya nya"
+    },
+    "category": "日常"
+  },
+  {
+    "name": "要吐了",
+    "path": "要吐了.mp3",
+    "date": "2022-9.9",
+    "translate": {
+      "zh-CN": "要吐了",
+      "en-US": "nya nya nya"
+    },
+    "category": "日常"
+  },
+  {
+    "name": "好大的胆子啊",
+    "path": "好大的胆子啊.mp3",
+    "date": "2022-9.9",
+    "translate": {
+      "zh-CN": "好大的胆子啊",
+      "en-US": "nya nya nya"
+    },
+    "category": "日常"
+  },
+  {
+    "name": "别发了",
+    "path": "别发了.mp3",
+    "date": "2022-9.9",
+    "translate": {
+      "zh-CN": "别发了",
+      "en-US": "nya nya nya"
+    },
+    "category": "日常"
+  },
+  {
+    "name": "别睡啦！(音量注意)",
+    "path": "别睡啦！(音量注意).mp3",
+    "date": "2022-9.9",
+    "translate": {
+      "zh-CN": "别睡啦！(音量注意)",
+      "en-US": "nya nya nya"
+    },
+    "category": "日常"
+  },
+  {
+    "name": "不认识捏",
+    "path": "不认识捏.mp3",
+    "date": "2022-9.9",
+    "translate": {
+      "zh-CN": "不认识捏",
+      "en-US": "nya nya nya"
+    },
+    "category": "日常"
+  },
+  {
+    "name": "不要再说了(敲桌子)",
+    "path": "不要再说了(敲桌子).mp3",
+    "date": "2022-9.9",
+    "translate": {
+      "zh-CN": "不要再说了(敲桌子)",
+      "en-US": "nya nya nya"
+    },
+    "category": "日常"
+  },
+  {
+    "name": "吃得很饱(大声)",
+    "path": "吃得很饱(大声).mp3",
+    "date": "2022-9.9",
+    "translate": {
+      "zh-CN": "吃得很饱(大声)",
+      "en-US": "nya nya nya"
+    },
+    "category": "日常"
+  },
+  {
+    "name": "烦死了x3",
+    "path": "烦死了x3.mp3",
+    "date": "2022-9.9",
+    "translate": {
+      "zh-CN": "烦死了x3",
+      "en-US": "nya nya nya"
+    },
+    "category": "日常"
+  },
+  {
+    "name": "好呀x2",
+    "path": "好呀x2.mp3",
+    "date": "2022-9.9",
+    "translate": {
+      "zh-CN": "好呀x2",
+      "en-US": "nya nya nya"
+    },
+    "category": "日常"
+  },
+  {
+    "name": "没醉啦",
+    "path": "没醉啦.mp3",
+    "date": "2022-9.9",
+    "translate": {
+      "zh-CN": "没醉啦",
+      "en-US": "nya nya nya"
+    },
+    "category": "日常"
+  },
+  {
+    "name": "醉酒嗝",
+    "path": "醉酒嗝.mp3",
+    "date": "2022-9.9",
+    "translate": {
+      "zh-CN": "醉酒嗝",
+      "en-US": "nya nya nya"
+    },
+    "category": "日常"
+  },
+  {
+    "name": "就当巨婴 巨婴怎么了",
+    "path": "就当巨婴 巨婴怎么了.mp3",
+    "date": "2022-9.9",
+    "translate": {
+      "zh-CN": "就当巨婴 巨婴怎么了",
+      "en-US": "nya nya nya"
+    },
+    "category": "日常"
+  },
+  {
+    "name": "超级清醒",
+    "path": "超级清醒.mp3",
+    "date": "2022-9.9",
+    "translate": {
+      "zh-CN": "超级清醒",
+      "en-US": "nya nya nya"
+    },
+    "category": "日常"
+  },
+  {
+    "name": "那我呢",
+    "path": "那我呢.mp3",
+    "date": "2022-9.9",
+    "translate": {
+      "zh-CN": "那我呢",
+      "en-US": "nya nya nya"
+    },
+    "category": "日常"
+  },
+  {
+    "name": "主播是否太依赖yyy了",
+    "path": "主播是否太依赖yyy了.mp3",
+    "date": "2022-9.9",
+    "translate": {
+      "zh-CN": "主播是否太依赖yyy了",
+      "en-US": "nya nya nya"
+    },
+    "category": "梗"
+  },
+  {
+    "name": "头疼",
+    "path": "头疼.mp3",
+    "date": "2022-9.9",
+    "translate": {
+      "zh-CN": "头疼",
+      "en-US": "nya nya nya"
+    },
+    "category": "日常"
+  },
+  {
+    "name": "晚上好",
+    "path": "晚上好.mp3",
+    "date": "2022-9.9",
+    "translate": {
+      "zh-CN": "晚上好",
+      "en-US": "nya nya nya"
+    },
+    "category": "日常"
+  },
+  {
+    "name": "晚上好②",
+    "path": "晚上好②.mp3",
+    "date": "2022-9.9",
+    "translate": {
+      "zh-CN": "晚上好②",
+      "en-US": "nya nya nya"
+    },
+    "category": "日常"
+  },
+  {
+    "name": "汪汪汪忘记开麦了",
+    "path": "汪汪汪忘记开麦了.mp3",
+    "date": "2022-9.9",
+    "translate": {
+      "zh-CN": "汪汪汪忘记开麦了",
+      "en-US": "nya nya nya"
+    },
+    "category": "日常"
+  },
+  {
+    "name": "我是小猪",
+    "path": "我是小猪.mp3",
+    "date": "2022-9.9",
+    "translate": {
+      "zh-CN": "我是小猪",
+      "en-US": "nya nya nya"
+    },
+    "category": "日常"
+  },
+  {
+    "name": "我在看着你们(的弹幕)",
+    "path": "我在看着你们(的弹幕).mp3",
+    "date": "2022-9.9",
+    "translate": {
+      "zh-CN": "我在看着你们(的弹幕)",
+      "en-US": "nya nya nya"
+    },
+    "category": "日常"
+  },
+  {
+    "name": "一直都在",
+    "path": "一直都在.mp3",
+    "date": "2022-9.9",
+    "translate": {
+      "zh-CN": "一直都在",
+      "en-US": "nya nya nya"
+    },
+    "category": "日常"
+  },
+  {
+    "name": "营业骗一下舰长",
+    "path": "营业骗一下舰长.mp3",
+    "date": "2022-9.9",
+    "translate": {
+      "zh-CN": "营业骗一下舰长",
+      "en-US": "nya nya nya"
+    },
+    "category": "梗"
+  },
+  {
+    "name": "主播能夹一下吗",
+    "path": "主播能夹一下吗.mp3",
+    "date": "2022-9.9",
+    "translate": {
+      "zh-CN": "主播能夹一下吗",
+      "en-US": "nya nya nya"
+    },
+    "category": "日常"
+  },
+  {
+    "name": "主播太1啦",
+    "path": "主播太1啦.mp3",
+    "date": "2022-9.9",
+    "translate": {
+      "zh-CN": "主播太1啦",
+      "en-US": "nya nya nya"
+    },
+    "category": "日常"
+  },
+  {
+    "name": "醉酒嗝②",
+    "path": "醉酒嗝②.mp3",
+    "date": "2022-9.9",
+    "translate": {
+      "zh-CN": "醉酒嗝②",
+      "en-US": "nya nya nya"
+    },
+    "category": "日常"
+  }
+]
