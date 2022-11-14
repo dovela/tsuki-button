@@ -10,7 +10,7 @@
 
 ### 参与完善本项目
 
-- 您可以在[Issues](https://github.com/dovela/tsuki-button/issues)提出您的建议。
+- 您可以在[Issues](https://github.com/dovela/tsuki-button/issues)提出您的建议
 
   - 若是请求添加新语音，请使用指定的**issues模板**
   - 不熟悉**github**的用法也可以到[Bilibili](https://space.bilibili.com/2662353)和我联系
@@ -61,12 +61,13 @@
 ```shell
 cd tsuki-button
 yarn install  // 安装所需插件
+# npm run server  // 本地测试
 npm run build  // 打包网站
 ```
 
 会在工程根目录下生成一个`dist`文件夹，复制到自己的服务器上搭建就好了，如何搭建网站不在本文叙述范围
 
-本地测试的话，执行`npm run serve`，命令行会给一个网址`http://localhost:端口`，但是如果点任何一个按钮网站都会崩溃，是正常现象，生产条件下搭建的网站正常
+本地测试的话，执行`npm run serve`，命令行会给一个网址`http://localhost:端口`。但是如果点任何一个按钮网站都会崩溃，是正常现象，生产条件下搭建的网站正常
 
 ### 标准工作流程
 
@@ -81,6 +82,8 @@ npm run build  // 打包网站
 图中提到的是我的常用工具也足够可靠，如果使用在线剪辑网站，一定要注意**是否存在码率压缩降低**的情况，虽然并不是无法容许的，但是建议不要这么做。
 
 ##### 特别注意
+
+- 如果mp3文件名包含英文句点 `.` 会造成音频无法正常显示，统一在`name`和`path`替换为下划线 `_` ，如`《8_32》`，`zh-CN`使用英文句点 `.` ，如`《8.32》`。
 
 - 大部分歌切声音很小，请适当增幅（一般+6~+10.5），音量参考《yona yona dance》。
 

@@ -1,34 +1,31 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="utf-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="_id" content="U2FsdGVkX1/Ou7vmWnQxcvh1V5IjtQkoCXB6jwRXmvI=" />
-    <meta name="viewport" content="width=device-width,initial-scale=1.0" />
-    <link rel="icon" href="<%= BASE_URL %>favicon.ico" />
-    <title>Tsuki Button</title>
-    <meta name="description" content="Sound Collection for Tsuki" />
-  </head>
 
-  <body>
-    <noscript>
-      <strong
-        >We're sorry but Tsuki Button doesn't work properly without JavaScript
-        enabled. Please enable it to continue.</strong
-      >
-    </noscript>
-    <div id="app"></div>
-    <!-- built files will be auto injected -->
-    <div id="sakana-widget" style="position: fixed; bottom: 70px; right: -20px; z-index: 999;"></div>
-    <script>
-        function initSakanaWidget() {
-            SakanaWidget({ character: 'chisato' });
-        }
-    </script>
-    <script
-            async
-            onload="initSakanaWidget()"
-            src="https://cdn.jsdelivr.net/npm/sakana-widget@1.1.0/lib/index.min.js"
-    ></script>
-  </body>
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="_id" content="U2FsdGVkX1/Ou7vmWnQxcvh1V5IjtQkoCXB6jwRXmvI=" />
+  <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+  <link rel="icon" href="<%= BASE_URL %>favicon.ico" />
+  <title>Tsuki Button</title>
+  <meta name="description" content="Sound Collection for Tsuki" />
+</head>
+
+<body>
+  <noscript>
+    <strong>We're sorry but Tsuki Button doesn't work properly without JavaScript
+      enabled. Please enable it to continue.</strong>
+  </noscript>
+  <div id="app"></div>
+  <!-- built files will be auto injected -->
+  <div id="sakana-widget" style="position: fixed; bottom: 70px; right: 0px; z-index: 999;"></div>
+  <script>
+    function initSakanaWidget() {
+      SakanaWidget({ character: 'takina', size: 150 });
+    }
+  </script>
+  <script async onload="initSakanaWidget()"
+    src="https://cdn.jsdelivr.net/npm/sakana-widget@1.1.0/lib/index.min.js"></script>
+</body>
+
 </html>
