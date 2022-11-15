@@ -8,7 +8,7 @@
   <meta name="viewport" content="width=device-width,initial-scale=1.0" />
   <link rel="icon" href="<%= BASE_URL %>favicon.ico" />
   <title>Tsuki Button</title>
-  <meta name="description" content="Sound Collection for Tsuki" />
+  <meta name="description" content="Sound Collection for Nightmare Tsuki" />
 </head>
 
 <body>
@@ -18,14 +18,29 @@
   </noscript>
   <div id="app"></div>
   <!-- built files will be auto injected -->
+
   <div id="sakana-widget" style="position: fixed; bottom: 70px; right: 0px; z-index: 999;"></div>
   <script>
-    function initSakanaWidget() {
-      SakanaWidget({ character: 'takina', size: 150 });
-    }
+      function initSakanaWidget() {
+
+          const tsuki = SakanaWidget.getCharacter('chisato');
+          tsuki.initialState = {
+              ...tsuki.initialState,
+              i: 0.1,
+              d: 0.96,
+              autoFit:true,
+
+          };
+          tsuki.image = `/img/Tsuki.png`;
+          SakanaWidget.registerCharacter('tsuki', tsuki);
+          new SakanaWidget({ character: 'tsuki', size: 170, stroke:{width: 10}}).mount('#sakana-widget');
+      }
   </script>
-  <script async onload="initSakanaWidget()"
-    src="https://cdn.jsdelivr.net/npm/sakana-widget@1.1.0/lib/index.min.js"></script>
+  <script
+          async
+          onload="initSakanaWidget()"
+          src="https://cdn.jsdelivr.net/npm/sakana-widget@2.3.1/lib/sakana.min.js"
+  ></script>
 </body>
 
 </html>

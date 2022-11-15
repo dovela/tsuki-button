@@ -5805,10 +5805,10 @@
   "resolved" "https://registry.npmjs.org/safer-buffer/-/safer-buffer-2.1.2.tgz"
   "version" "2.1.2"
 
-"sakana-widget@^2.2.2":
-  "integrity" "sha512-miJZq5SZTxHh1toTw4ZkkzU8F5cXHXN1Hg1/cebGbGLdAvXlWxXUdrhNYdPafQIiOdO4997z8evGxKGCTgIJTw=="
-  "resolved" "https://registry.npmmirror.com/sakana-widget/-/sakana-widget-2.2.2.tgz"
-  "version" "2.2.2"
+"sakana-widget@^2.4.1":
+  "integrity" "sha512-1CyasxRJhRJfPztAVuxQFvuc+KOyu/sAww+ZAIEszs5ghA64pm8oNk7E9civMvvWJvhmSYiLu+PIEAWk2QW2lQ=="
+  "resolved" "https://registry.npmmirror.com/sakana-widget/-/sakana-widget-2.4.1.tgz"
+  "version" "2.4.1"
   dependencies:
     "@juggle/resize-observer" "^3.4.0"
 
