@@ -22,6 +22,9 @@
           />
         </div>
       </div>
+      <div style="font-size: 15px;color: black;margin: auto">
+        <a href="https://beian.miit.gov.cn/" target="_blank">辽ICP备2023000534号</a>
+      </div>
       <div class="text-right">
         <div class="git">
           <IBtn class="btn" :url="githubUrl" :img="githubPng" />
