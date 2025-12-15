@@ -22,3 +22,7 @@ pnpm-debug.log*
 *.sln
 *.sw?
 package-lock.json
+
+# SSL 证书本地存放，避免入库
+/ssl/
+
